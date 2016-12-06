@@ -1,0 +1,2 @@
+# thredds-config
+THREDDS Configuration
